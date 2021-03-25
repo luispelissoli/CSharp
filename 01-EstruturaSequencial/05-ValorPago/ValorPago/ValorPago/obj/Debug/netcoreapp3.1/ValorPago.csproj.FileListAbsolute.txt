@@ -1,0 +1,13 @@
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\05-ValorPago\ValorPago\ValorPago\bin\Debug\netcoreapp3.1\ValorPago.exe
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\05-ValorPago\ValorPago\ValorPago\bin\Debug\netcoreapp3.1\ValorPago.deps.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\05-ValorPago\ValorPago\ValorPago\bin\Debug\netcoreapp3.1\ValorPago.runtimeconfig.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\05-ValorPago\ValorPago\ValorPago\bin\Debug\netcoreapp3.1\ValorPago.runtimeconfig.dev.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\05-ValorPago\ValorPago\ValorPago\bin\Debug\netcoreapp3.1\ValorPago.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\05-ValorPago\ValorPago\ValorPago\bin\Debug\netcoreapp3.1\ValorPago.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\05-ValorPago\ValorPago\ValorPago\obj\Debug\netcoreapp3.1\ValorPago.csprojAssemblyReference.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\05-ValorPago\ValorPago\ValorPago\obj\Debug\netcoreapp3.1\ValorPago.AssemblyInfoInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\05-ValorPago\ValorPago\ValorPago\obj\Debug\netcoreapp3.1\ValorPago.AssemblyInfo.cs
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\05-ValorPago\ValorPago\ValorPago\obj\Debug\netcoreapp3.1\ValorPago.csproj.CoreCompileInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\05-ValorPago\ValorPago\ValorPago\obj\Debug\netcoreapp3.1\ValorPago.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\05-ValorPago\ValorPago\ValorPago\obj\Debug\netcoreapp3.1\ValorPago.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\05-ValorPago\ValorPago\ValorPago\obj\Debug\netcoreapp3.1\ValorPago.genruntimeconfig.cache
