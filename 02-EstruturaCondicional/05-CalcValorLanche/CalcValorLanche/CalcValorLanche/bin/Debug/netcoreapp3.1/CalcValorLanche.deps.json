@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CalcValorLanche/1.0.0": {
+        "runtime": {
+          "CalcValorLanche.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalcValorLanche/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

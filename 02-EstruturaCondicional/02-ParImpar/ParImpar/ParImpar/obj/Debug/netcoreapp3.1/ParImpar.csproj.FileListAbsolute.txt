@@ -1,0 +1,12 @@
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\ParImpar\ParImpar\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.exe
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\ParImpar\ParImpar\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.deps.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\ParImpar\ParImpar\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.runtimeconfig.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\ParImpar\ParImpar\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.runtimeconfig.dev.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\ParImpar\ParImpar\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\ParImpar\ParImpar\ParImpar\bin\Debug\netcoreapp3.1\ParImpar.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\ParImpar\ParImpar\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.AssemblyInfoInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\ParImpar\ParImpar\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.AssemblyInfo.cs
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\ParImpar\ParImpar\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.csproj.CoreCompileInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\ParImpar\ParImpar\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\ParImpar\ParImpar\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\ParImpar\ParImpar\ParImpar\obj\Debug\netcoreapp3.1\ParImpar.genruntimeconfig.cache

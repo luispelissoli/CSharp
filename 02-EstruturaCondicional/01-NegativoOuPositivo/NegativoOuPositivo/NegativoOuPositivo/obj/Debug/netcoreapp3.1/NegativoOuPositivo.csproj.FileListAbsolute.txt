@@ -1,0 +1,13 @@
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\NegativoOuPositivo\NegativoOuPositivo\NegativoOuPositivo\bin\Debug\netcoreapp3.1\NegativoOuPositivo.exe
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\NegativoOuPositivo\NegativoOuPositivo\NegativoOuPositivo\bin\Debug\netcoreapp3.1\NegativoOuPositivo.deps.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\NegativoOuPositivo\NegativoOuPositivo\NegativoOuPositivo\bin\Debug\netcoreapp3.1\NegativoOuPositivo.runtimeconfig.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\NegativoOuPositivo\NegativoOuPositivo\NegativoOuPositivo\bin\Debug\netcoreapp3.1\NegativoOuPositivo.runtimeconfig.dev.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\NegativoOuPositivo\NegativoOuPositivo\NegativoOuPositivo\bin\Debug\netcoreapp3.1\NegativoOuPositivo.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\NegativoOuPositivo\NegativoOuPositivo\NegativoOuPositivo\bin\Debug\netcoreapp3.1\NegativoOuPositivo.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\NegativoOuPositivo\NegativoOuPositivo\NegativoOuPositivo\obj\Debug\netcoreapp3.1\NegativoOuPositivo.AssemblyInfoInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\NegativoOuPositivo\NegativoOuPositivo\NegativoOuPositivo\obj\Debug\netcoreapp3.1\NegativoOuPositivo.AssemblyInfo.cs
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\NegativoOuPositivo\NegativoOuPositivo\NegativoOuPositivo\obj\Debug\netcoreapp3.1\NegativoOuPositivo.csproj.CoreCompileInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\NegativoOuPositivo\NegativoOuPositivo\NegativoOuPositivo\obj\Debug\netcoreapp3.1\NegativoOuPositivo.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\NegativoOuPositivo\NegativoOuPositivo\NegativoOuPositivo\obj\Debug\netcoreapp3.1\NegativoOuPositivo.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\NegativoOuPositivo\NegativoOuPositivo\NegativoOuPositivo\obj\Debug\netcoreapp3.1\NegativoOuPositivo.genruntimeconfig.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\NegativoOuPositivo\NegativoOuPositivo\NegativoOuPositivo\obj\Debug\netcoreapp3.1\NegativoOuPositivo.csprojAssemblyReference.cache

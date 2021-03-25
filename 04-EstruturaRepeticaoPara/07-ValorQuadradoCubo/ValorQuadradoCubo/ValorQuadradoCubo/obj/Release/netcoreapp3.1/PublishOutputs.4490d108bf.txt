@@ -1,0 +1,5 @@
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\07-ValorQuadradoCubo\ValorQuadradoCubo\exe\ValorQuadradoCubo.exe
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\07-ValorQuadradoCubo\ValorQuadradoCubo\exe\ValorQuadradoCubo.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\07-ValorQuadradoCubo\ValorQuadradoCubo\exe\ValorQuadradoCubo.deps.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\07-ValorQuadradoCubo\ValorQuadradoCubo\exe\ValorQuadradoCubo.runtimeconfig.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\07-ValorQuadradoCubo\ValorQuadradoCubo\exe\ValorQuadradoCubo.pdb

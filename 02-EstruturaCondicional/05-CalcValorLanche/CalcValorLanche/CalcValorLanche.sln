@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcValorLanche", "CalcValorLanche\CalcValorLanche.csproj", "{48B68304-285E-4911-8AF2-29D51E33CBC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48B68304-285E-4911-8AF2-29D51E33CBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B68304-285E-4911-8AF2-29D51E33CBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B68304-285E-4911-8AF2-29D51E33CBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B68304-285E-4911-8AF2-29D51E33CBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94885587-3D30-4B16-8D50-69D66A788479}
+	EndGlobalSection
+EndGlobal

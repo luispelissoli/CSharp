@@ -1,0 +1,12 @@
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\07-ValorQuadradoCubo\ValorQuadradoCubo\ValorQuadradoCubo\bin\Debug\netcoreapp3.1\ValorQuadradoCubo.exe
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\07-ValorQuadradoCubo\ValorQuadradoCubo\ValorQuadradoCubo\bin\Debug\netcoreapp3.1\ValorQuadradoCubo.deps.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\07-ValorQuadradoCubo\ValorQuadradoCubo\ValorQuadradoCubo\bin\Debug\netcoreapp3.1\ValorQuadradoCubo.runtimeconfig.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\07-ValorQuadradoCubo\ValorQuadradoCubo\ValorQuadradoCubo\bin\Debug\netcoreapp3.1\ValorQuadradoCubo.runtimeconfig.dev.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\07-ValorQuadradoCubo\ValorQuadradoCubo\ValorQuadradoCubo\bin\Debug\netcoreapp3.1\ValorQuadradoCubo.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\07-ValorQuadradoCubo\ValorQuadradoCubo\ValorQuadradoCubo\bin\Debug\netcoreapp3.1\ValorQuadradoCubo.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\07-ValorQuadradoCubo\ValorQuadradoCubo\ValorQuadradoCubo\obj\Debug\netcoreapp3.1\ValorQuadradoCubo.AssemblyInfoInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\07-ValorQuadradoCubo\ValorQuadradoCubo\ValorQuadradoCubo\obj\Debug\netcoreapp3.1\ValorQuadradoCubo.AssemblyInfo.cs
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\07-ValorQuadradoCubo\ValorQuadradoCubo\ValorQuadradoCubo\obj\Debug\netcoreapp3.1\ValorQuadradoCubo.csproj.CoreCompileInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\07-ValorQuadradoCubo\ValorQuadradoCubo\ValorQuadradoCubo\obj\Debug\netcoreapp3.1\ValorQuadradoCubo.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\07-ValorQuadradoCubo\ValorQuadradoCubo\ValorQuadradoCubo\obj\Debug\netcoreapp3.1\ValorQuadradoCubo.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\07-ValorQuadradoCubo\ValorQuadradoCubo\ValorQuadradoCubo\obj\Debug\netcoreapp3.1\ValorQuadradoCubo.genruntimeconfig.cache

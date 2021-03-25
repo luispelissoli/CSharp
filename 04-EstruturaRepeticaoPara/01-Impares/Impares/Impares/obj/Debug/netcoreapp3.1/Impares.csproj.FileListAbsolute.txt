@@ -1,0 +1,12 @@
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\01-Impares\Impares\Impares\bin\Debug\netcoreapp3.1\Impares.exe
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\01-Impares\Impares\Impares\bin\Debug\netcoreapp3.1\Impares.deps.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\01-Impares\Impares\Impares\bin\Debug\netcoreapp3.1\Impares.runtimeconfig.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\01-Impares\Impares\Impares\bin\Debug\netcoreapp3.1\Impares.runtimeconfig.dev.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\01-Impares\Impares\Impares\bin\Debug\netcoreapp3.1\Impares.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\01-Impares\Impares\Impares\bin\Debug\netcoreapp3.1\Impares.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\01-Impares\Impares\Impares\obj\Debug\netcoreapp3.1\Impares.AssemblyInfoInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\01-Impares\Impares\Impares\obj\Debug\netcoreapp3.1\Impares.AssemblyInfo.cs
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\01-Impares\Impares\Impares\obj\Debug\netcoreapp3.1\Impares.csproj.CoreCompileInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\01-Impares\Impares\Impares\obj\Debug\netcoreapp3.1\Impares.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\01-Impares\Impares\Impares\obj\Debug\netcoreapp3.1\Impares.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\01-Impares\Impares\Impares\obj\Debug\netcoreapp3.1\Impares.genruntimeconfig.cache

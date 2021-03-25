@@ -1,0 +1,12 @@
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\07-Coordenadas\Coordenadas\Coordenadas\bin\Debug\netcoreapp3.1\Coordenadas.exe
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\07-Coordenadas\Coordenadas\Coordenadas\bin\Debug\netcoreapp3.1\Coordenadas.deps.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\07-Coordenadas\Coordenadas\Coordenadas\bin\Debug\netcoreapp3.1\Coordenadas.runtimeconfig.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\07-Coordenadas\Coordenadas\Coordenadas\bin\Debug\netcoreapp3.1\Coordenadas.runtimeconfig.dev.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\07-Coordenadas\Coordenadas\Coordenadas\bin\Debug\netcoreapp3.1\Coordenadas.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\07-Coordenadas\Coordenadas\Coordenadas\bin\Debug\netcoreapp3.1\Coordenadas.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\07-Coordenadas\Coordenadas\Coordenadas\obj\Debug\netcoreapp3.1\Coordenadas.AssemblyInfoInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\07-Coordenadas\Coordenadas\Coordenadas\obj\Debug\netcoreapp3.1\Coordenadas.AssemblyInfo.cs
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\07-Coordenadas\Coordenadas\Coordenadas\obj\Debug\netcoreapp3.1\Coordenadas.csproj.CoreCompileInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\07-Coordenadas\Coordenadas\Coordenadas\obj\Debug\netcoreapp3.1\Coordenadas.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\07-Coordenadas\Coordenadas\Coordenadas\obj\Debug\netcoreapp3.1\Coordenadas.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\07-Coordenadas\Coordenadas\Coordenadas\obj\Debug\netcoreapp3.1\Coordenadas.genruntimeconfig.cache

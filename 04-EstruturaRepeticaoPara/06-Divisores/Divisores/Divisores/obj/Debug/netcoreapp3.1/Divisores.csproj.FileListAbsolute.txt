@@ -1,0 +1,12 @@
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\06-Divisores\Divisores\Divisores\bin\Debug\netcoreapp3.1\Divisores.exe
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\06-Divisores\Divisores\Divisores\bin\Debug\netcoreapp3.1\Divisores.deps.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\06-Divisores\Divisores\Divisores\bin\Debug\netcoreapp3.1\Divisores.runtimeconfig.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\06-Divisores\Divisores\Divisores\bin\Debug\netcoreapp3.1\Divisores.runtimeconfig.dev.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\06-Divisores\Divisores\Divisores\bin\Debug\netcoreapp3.1\Divisores.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\06-Divisores\Divisores\Divisores\bin\Debug\netcoreapp3.1\Divisores.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\06-Divisores\Divisores\Divisores\obj\Debug\netcoreapp3.1\Divisores.AssemblyInfoInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\06-Divisores\Divisores\Divisores\obj\Debug\netcoreapp3.1\Divisores.AssemblyInfo.cs
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\06-Divisores\Divisores\Divisores\obj\Debug\netcoreapp3.1\Divisores.csproj.CoreCompileInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\06-Divisores\Divisores\Divisores\obj\Debug\netcoreapp3.1\Divisores.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\06-Divisores\Divisores\Divisores\obj\Debug\netcoreapp3.1\Divisores.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\06-Divisores\Divisores\Divisores\obj\Debug\netcoreapp3.1\Divisores.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\02-Quadrante\Quadrante\Quadrante\bin\Debug\netcoreapp3.1\Quadrante.exe
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\02-Quadrante\Quadrante\Quadrante\bin\Debug\netcoreapp3.1\Quadrante.deps.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\02-Quadrante\Quadrante\Quadrante\bin\Debug\netcoreapp3.1\Quadrante.runtimeconfig.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\02-Quadrante\Quadrante\Quadrante\bin\Debug\netcoreapp3.1\Quadrante.runtimeconfig.dev.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\02-Quadrante\Quadrante\Quadrante\bin\Debug\netcoreapp3.1\Quadrante.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\02-Quadrante\Quadrante\Quadrante\bin\Debug\netcoreapp3.1\Quadrante.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\02-Quadrante\Quadrante\Quadrante\obj\Debug\netcoreapp3.1\Quadrante.AssemblyInfoInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\02-Quadrante\Quadrante\Quadrante\obj\Debug\netcoreapp3.1\Quadrante.AssemblyInfo.cs
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\02-Quadrante\Quadrante\Quadrante\obj\Debug\netcoreapp3.1\Quadrante.csproj.CoreCompileInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\02-Quadrante\Quadrante\Quadrante\obj\Debug\netcoreapp3.1\Quadrante.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\02-Quadrante\Quadrante\Quadrante\obj\Debug\netcoreapp3.1\Quadrante.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\02-Quadrante\Quadrante\Quadrante\obj\Debug\netcoreapp3.1\Quadrante.genruntimeconfig.cache

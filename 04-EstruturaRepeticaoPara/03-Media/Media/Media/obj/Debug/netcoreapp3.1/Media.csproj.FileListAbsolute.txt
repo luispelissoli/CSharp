@@ -1,0 +1,13 @@
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\03-Media\Media\Media\bin\Debug\netcoreapp3.1\Media.exe
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\03-Media\Media\Media\bin\Debug\netcoreapp3.1\Media.deps.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\03-Media\Media\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\03-Media\Media\Media\bin\Debug\netcoreapp3.1\Media.runtimeconfig.dev.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\03-Media\Media\Media\bin\Debug\netcoreapp3.1\Media.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\03-Media\Media\Media\bin\Debug\netcoreapp3.1\Media.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\03-Media\Media\Media\obj\Debug\netcoreapp3.1\Media.csprojAssemblyReference.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\03-Media\Media\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfoInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\03-Media\Media\Media\obj\Debug\netcoreapp3.1\Media.AssemblyInfo.cs
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\03-Media\Media\Media\obj\Debug\netcoreapp3.1\Media.csproj.CoreCompileInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\03-Media\Media\Media\obj\Debug\netcoreapp3.1\Media.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\03-Media\Media\Media\obj\Debug\netcoreapp3.1\Media.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\03-Media\Media\Media\obj\Debug\netcoreapp3.1\Media.genruntimeconfig.cache

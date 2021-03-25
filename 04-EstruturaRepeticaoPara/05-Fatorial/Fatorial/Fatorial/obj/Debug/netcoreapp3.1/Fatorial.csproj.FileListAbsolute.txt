@@ -1,0 +1,12 @@
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\05-Fatorial\Fatorial\Fatorial\bin\Debug\netcoreapp3.1\Fatorial.exe
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\05-Fatorial\Fatorial\Fatorial\bin\Debug\netcoreapp3.1\Fatorial.deps.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\05-Fatorial\Fatorial\Fatorial\bin\Debug\netcoreapp3.1\Fatorial.runtimeconfig.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\05-Fatorial\Fatorial\Fatorial\bin\Debug\netcoreapp3.1\Fatorial.runtimeconfig.dev.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\05-Fatorial\Fatorial\Fatorial\bin\Debug\netcoreapp3.1\Fatorial.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\05-Fatorial\Fatorial\Fatorial\bin\Debug\netcoreapp3.1\Fatorial.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\05-Fatorial\Fatorial\Fatorial\obj\Debug\netcoreapp3.1\Fatorial.AssemblyInfoInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\05-Fatorial\Fatorial\Fatorial\obj\Debug\netcoreapp3.1\Fatorial.AssemblyInfo.cs
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\05-Fatorial\Fatorial\Fatorial\obj\Debug\netcoreapp3.1\Fatorial.csproj.CoreCompileInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\05-Fatorial\Fatorial\Fatorial\obj\Debug\netcoreapp3.1\Fatorial.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\05-Fatorial\Fatorial\Fatorial\obj\Debug\netcoreapp3.1\Fatorial.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\05-Fatorial\Fatorial\Fatorial\obj\Debug\netcoreapp3.1\Fatorial.genruntimeconfig.cache

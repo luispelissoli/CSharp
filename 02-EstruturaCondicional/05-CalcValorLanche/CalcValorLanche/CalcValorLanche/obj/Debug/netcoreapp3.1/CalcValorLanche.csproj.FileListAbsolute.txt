@@ -1,0 +1,12 @@
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\05-CalcValorLanche\CalcValorLanche\CalcValorLanche\bin\Debug\netcoreapp3.1\CalcValorLanche.exe
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\05-CalcValorLanche\CalcValorLanche\CalcValorLanche\bin\Debug\netcoreapp3.1\CalcValorLanche.deps.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\05-CalcValorLanche\CalcValorLanche\CalcValorLanche\bin\Debug\netcoreapp3.1\CalcValorLanche.runtimeconfig.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\05-CalcValorLanche\CalcValorLanche\CalcValorLanche\bin\Debug\netcoreapp3.1\CalcValorLanche.runtimeconfig.dev.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\05-CalcValorLanche\CalcValorLanche\CalcValorLanche\bin\Debug\netcoreapp3.1\CalcValorLanche.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\05-CalcValorLanche\CalcValorLanche\CalcValorLanche\bin\Debug\netcoreapp3.1\CalcValorLanche.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\05-CalcValorLanche\CalcValorLanche\CalcValorLanche\obj\Debug\netcoreapp3.1\CalcValorLanche.AssemblyInfoInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\05-CalcValorLanche\CalcValorLanche\CalcValorLanche\obj\Debug\netcoreapp3.1\CalcValorLanche.AssemblyInfo.cs
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\05-CalcValorLanche\CalcValorLanche\CalcValorLanche\obj\Debug\netcoreapp3.1\CalcValorLanche.csproj.CoreCompileInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\05-CalcValorLanche\CalcValorLanche\CalcValorLanche\obj\Debug\netcoreapp3.1\CalcValorLanche.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\05-CalcValorLanche\CalcValorLanche\CalcValorLanche\obj\Debug\netcoreapp3.1\CalcValorLanche.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\05-CalcValorLanche\CalcValorLanche\CalcValorLanche\obj\Debug\netcoreapp3.1\CalcValorLanche.genruntimeconfig.cache

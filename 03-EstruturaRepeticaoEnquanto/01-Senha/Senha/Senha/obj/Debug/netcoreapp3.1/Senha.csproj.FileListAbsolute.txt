@@ -1,0 +1,12 @@
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\01-Senha\Senha\Senha\bin\Debug\netcoreapp3.1\Senha.exe
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\01-Senha\Senha\Senha\bin\Debug\netcoreapp3.1\Senha.deps.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\01-Senha\Senha\Senha\bin\Debug\netcoreapp3.1\Senha.runtimeconfig.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\01-Senha\Senha\Senha\bin\Debug\netcoreapp3.1\Senha.runtimeconfig.dev.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\01-Senha\Senha\Senha\bin\Debug\netcoreapp3.1\Senha.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\01-Senha\Senha\Senha\bin\Debug\netcoreapp3.1\Senha.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\01-Senha\Senha\Senha\obj\Debug\netcoreapp3.1\Senha.AssemblyInfoInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\01-Senha\Senha\Senha\obj\Debug\netcoreapp3.1\Senha.AssemblyInfo.cs
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\01-Senha\Senha\Senha\obj\Debug\netcoreapp3.1\Senha.csproj.CoreCompileInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\01-Senha\Senha\Senha\obj\Debug\netcoreapp3.1\Senha.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\01-Senha\Senha\Senha\obj\Debug\netcoreapp3.1\Senha.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\01-Senha\Senha\Senha\obj\Debug\netcoreapp3.1\Senha.genruntimeconfig.cache

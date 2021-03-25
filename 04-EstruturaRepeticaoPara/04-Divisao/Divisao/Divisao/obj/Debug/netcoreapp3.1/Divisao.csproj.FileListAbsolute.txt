@@ -1,0 +1,13 @@
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\04-Divisao\Divisao\Divisao\bin\Debug\netcoreapp3.1\Divisao.exe
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\04-Divisao\Divisao\Divisao\bin\Debug\netcoreapp3.1\Divisao.deps.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\04-Divisao\Divisao\Divisao\bin\Debug\netcoreapp3.1\Divisao.runtimeconfig.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\04-Divisao\Divisao\Divisao\bin\Debug\netcoreapp3.1\Divisao.runtimeconfig.dev.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\04-Divisao\Divisao\Divisao\bin\Debug\netcoreapp3.1\Divisao.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\04-Divisao\Divisao\Divisao\bin\Debug\netcoreapp3.1\Divisao.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\04-Divisao\Divisao\Divisao\obj\Debug\netcoreapp3.1\Divisao.csprojAssemblyReference.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\04-Divisao\Divisao\Divisao\obj\Debug\netcoreapp3.1\Divisao.AssemblyInfoInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\04-Divisao\Divisao\Divisao\obj\Debug\netcoreapp3.1\Divisao.AssemblyInfo.cs
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\04-Divisao\Divisao\Divisao\obj\Debug\netcoreapp3.1\Divisao.csproj.CoreCompileInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\04-Divisao\Divisao\Divisao\obj\Debug\netcoreapp3.1\Divisao.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\04-Divisao\Divisao\Divisao\obj\Debug\netcoreapp3.1\Divisao.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\04-Divisao\Divisao\Divisao\obj\Debug\netcoreapp3.1\Divisao.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\08-Imposto\Imposto\Imposto\bin\Debug\netcoreapp3.1\Imposto.exe
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\08-Imposto\Imposto\Imposto\bin\Debug\netcoreapp3.1\Imposto.deps.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\08-Imposto\Imposto\Imposto\bin\Debug\netcoreapp3.1\Imposto.runtimeconfig.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\08-Imposto\Imposto\Imposto\bin\Debug\netcoreapp3.1\Imposto.runtimeconfig.dev.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\08-Imposto\Imposto\Imposto\bin\Debug\netcoreapp3.1\Imposto.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\08-Imposto\Imposto\Imposto\bin\Debug\netcoreapp3.1\Imposto.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\08-Imposto\Imposto\Imposto\obj\Debug\netcoreapp3.1\Imposto.csprojAssemblyReference.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\08-Imposto\Imposto\Imposto\obj\Debug\netcoreapp3.1\Imposto.AssemblyInfoInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\08-Imposto\Imposto\Imposto\obj\Debug\netcoreapp3.1\Imposto.AssemblyInfo.cs
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\08-Imposto\Imposto\Imposto\obj\Debug\netcoreapp3.1\Imposto.csproj.CoreCompileInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\08-Imposto\Imposto\Imposto\obj\Debug\netcoreapp3.1\Imposto.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\08-Imposto\Imposto\Imposto\obj\Debug\netcoreapp3.1\Imposto.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\08-Imposto\Imposto\Imposto\obj\Debug\netcoreapp3.1\Imposto.genruntimeconfig.cache

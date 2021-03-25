@@ -1,0 +1,13 @@
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\03-Multiplos\Multiplos\Multiplos\bin\Debug\netcoreapp3.1\Multiplos.exe
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\03-Multiplos\Multiplos\Multiplos\bin\Debug\netcoreapp3.1\Multiplos.deps.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\03-Multiplos\Multiplos\Multiplos\bin\Debug\netcoreapp3.1\Multiplos.runtimeconfig.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\03-Multiplos\Multiplos\Multiplos\bin\Debug\netcoreapp3.1\Multiplos.runtimeconfig.dev.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\03-Multiplos\Multiplos\Multiplos\bin\Debug\netcoreapp3.1\Multiplos.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\03-Multiplos\Multiplos\Multiplos\bin\Debug\netcoreapp3.1\Multiplos.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\03-Multiplos\Multiplos\Multiplos\obj\Debug\netcoreapp3.1\Multiplos.AssemblyInfoInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\03-Multiplos\Multiplos\Multiplos\obj\Debug\netcoreapp3.1\Multiplos.AssemblyInfo.cs
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\03-Multiplos\Multiplos\Multiplos\obj\Debug\netcoreapp3.1\Multiplos.csproj.CoreCompileInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\03-Multiplos\Multiplos\Multiplos\obj\Debug\netcoreapp3.1\Multiplos.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\03-Multiplos\Multiplos\Multiplos\obj\Debug\netcoreapp3.1\Multiplos.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\03-Multiplos\Multiplos\Multiplos\obj\Debug\netcoreapp3.1\Multiplos.genruntimeconfig.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\02-EstruturaCondicional\03-Multiplos\Multiplos\Multiplos\obj\Debug\netcoreapp3.1\Multiplos.csprojAssemblyReference.cache

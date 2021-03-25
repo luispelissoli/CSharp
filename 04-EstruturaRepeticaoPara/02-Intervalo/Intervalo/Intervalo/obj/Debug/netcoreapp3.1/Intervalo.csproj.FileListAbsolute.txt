@@ -1,0 +1,12 @@
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\02-Intervalo\Intervalo\Intervalo\bin\Debug\netcoreapp3.1\Intervalo.exe
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\02-Intervalo\Intervalo\Intervalo\bin\Debug\netcoreapp3.1\Intervalo.deps.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\02-Intervalo\Intervalo\Intervalo\bin\Debug\netcoreapp3.1\Intervalo.runtimeconfig.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\02-Intervalo\Intervalo\Intervalo\bin\Debug\netcoreapp3.1\Intervalo.runtimeconfig.dev.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\02-Intervalo\Intervalo\Intervalo\bin\Debug\netcoreapp3.1\Intervalo.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\02-Intervalo\Intervalo\Intervalo\bin\Debug\netcoreapp3.1\Intervalo.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\02-Intervalo\Intervalo\Intervalo\obj\Debug\netcoreapp3.1\Intervalo.AssemblyInfoInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\02-Intervalo\Intervalo\Intervalo\obj\Debug\netcoreapp3.1\Intervalo.AssemblyInfo.cs
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\02-Intervalo\Intervalo\Intervalo\obj\Debug\netcoreapp3.1\Intervalo.csproj.CoreCompileInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\02-Intervalo\Intervalo\Intervalo\obj\Debug\netcoreapp3.1\Intervalo.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\02-Intervalo\Intervalo\Intervalo\obj\Debug\netcoreapp3.1\Intervalo.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\04-EstruturaRepeticaoPara\02-Intervalo\Intervalo\Intervalo\obj\Debug\netcoreapp3.1\Intervalo.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\03-Combustivel\Combustivel\Combustivel\bin\Debug\netcoreapp3.1\Combustivel.exe
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\03-Combustivel\Combustivel\Combustivel\bin\Debug\netcoreapp3.1\Combustivel.deps.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\03-Combustivel\Combustivel\Combustivel\bin\Debug\netcoreapp3.1\Combustivel.runtimeconfig.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\03-Combustivel\Combustivel\Combustivel\bin\Debug\netcoreapp3.1\Combustivel.runtimeconfig.dev.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\03-Combustivel\Combustivel\Combustivel\bin\Debug\netcoreapp3.1\Combustivel.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\03-Combustivel\Combustivel\Combustivel\bin\Debug\netcoreapp3.1\Combustivel.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\03-Combustivel\Combustivel\Combustivel\obj\Debug\netcoreapp3.1\Combustivel.AssemblyInfoInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\03-Combustivel\Combustivel\Combustivel\obj\Debug\netcoreapp3.1\Combustivel.AssemblyInfo.cs
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\03-Combustivel\Combustivel\Combustivel\obj\Debug\netcoreapp3.1\Combustivel.csproj.CoreCompileInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\03-Combustivel\Combustivel\Combustivel\obj\Debug\netcoreapp3.1\Combustivel.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\03-Combustivel\Combustivel\Combustivel\obj\Debug\netcoreapp3.1\Combustivel.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\01-ExerciciosLogica\03-EstruturaRepeticaoEnquanto\03-Combustivel\Combustivel\Combustivel\obj\Debug\netcoreapp3.1\Combustivel.genruntimeconfig.cache
