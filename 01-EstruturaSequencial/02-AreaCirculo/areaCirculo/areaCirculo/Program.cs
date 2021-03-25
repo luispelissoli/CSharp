@@ -12,10 +12,10 @@ namespace areaCirculo
               Considere o valor de π = 3.14159
             */
 
-            double pi = 3.14159, raio, area;
+            double pi = 3.14159, r, a;
             raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            area = pi * (raio * raio);
+            area = pi * (r * a);
 
             Console.WriteLine("A="+area.ToString("F4", CultureInfo.InvariantCulture));
         }
