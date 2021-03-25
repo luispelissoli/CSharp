@@ -13,9 +13,9 @@ namespace areaCirculo
             */
 
             double pi = 3.14159, r, a;
-            raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            r = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            area = pi * (r * a);
+            a = pi * (r * a);
 
             Console.WriteLine("A="+area.ToString("F4", CultureInfo.InvariantCulture));
         }
