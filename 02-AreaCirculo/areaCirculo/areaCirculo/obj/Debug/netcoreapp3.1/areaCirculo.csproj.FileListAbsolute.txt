@@ -1,0 +1,12 @@
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\02-AreaCirculo\areaCirculo\areaCirculo\bin\Debug\netcoreapp3.1\areaCirculo.exe
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\02-AreaCirculo\areaCirculo\areaCirculo\bin\Debug\netcoreapp3.1\areaCirculo.deps.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\02-AreaCirculo\areaCirculo\areaCirculo\bin\Debug\netcoreapp3.1\areaCirculo.runtimeconfig.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\02-AreaCirculo\areaCirculo\areaCirculo\bin\Debug\netcoreapp3.1\areaCirculo.runtimeconfig.dev.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\02-AreaCirculo\areaCirculo\areaCirculo\bin\Debug\netcoreapp3.1\areaCirculo.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\02-AreaCirculo\areaCirculo\areaCirculo\bin\Debug\netcoreapp3.1\areaCirculo.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\02-AreaCirculo\areaCirculo\areaCirculo\obj\Debug\netcoreapp3.1\areaCirculo.AssemblyInfoInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\02-AreaCirculo\areaCirculo\areaCirculo\obj\Debug\netcoreapp3.1\areaCirculo.AssemblyInfo.cs
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\02-AreaCirculo\areaCirculo\areaCirculo\obj\Debug\netcoreapp3.1\areaCirculo.csproj.CoreCompileInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\02-AreaCirculo\areaCirculo\areaCirculo\obj\Debug\netcoreapp3.1\areaCirculo.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\02-AreaCirculo\areaCirculo\areaCirculo\obj\Debug\netcoreapp3.1\areaCirculo.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\02-AreaCirculo\areaCirculo\areaCirculo\obj\Debug\netcoreapp3.1\areaCirculo.genruntimeconfig.cache

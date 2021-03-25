@@ -1,0 +1,12 @@
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\04-SalarioFuncionario\salarioFuncionario\salarioFuncionario\bin\Debug\netcoreapp3.1\salarioFuncionario.exe
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\04-SalarioFuncionario\salarioFuncionario\salarioFuncionario\bin\Debug\netcoreapp3.1\salarioFuncionario.deps.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\04-SalarioFuncionario\salarioFuncionario\salarioFuncionario\bin\Debug\netcoreapp3.1\salarioFuncionario.runtimeconfig.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\04-SalarioFuncionario\salarioFuncionario\salarioFuncionario\bin\Debug\netcoreapp3.1\salarioFuncionario.runtimeconfig.dev.json
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\04-SalarioFuncionario\salarioFuncionario\salarioFuncionario\bin\Debug\netcoreapp3.1\salarioFuncionario.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\04-SalarioFuncionario\salarioFuncionario\salarioFuncionario\bin\Debug\netcoreapp3.1\salarioFuncionario.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\04-SalarioFuncionario\salarioFuncionario\salarioFuncionario\obj\Debug\netcoreapp3.1\salarioFuncionario.AssemblyInfoInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\04-SalarioFuncionario\salarioFuncionario\salarioFuncionario\obj\Debug\netcoreapp3.1\salarioFuncionario.AssemblyInfo.cs
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\04-SalarioFuncionario\salarioFuncionario\salarioFuncionario\obj\Debug\netcoreapp3.1\salarioFuncionario.csproj.CoreCompileInputs.cache
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\04-SalarioFuncionario\salarioFuncionario\salarioFuncionario\obj\Debug\netcoreapp3.1\salarioFuncionario.dll
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\04-SalarioFuncionario\salarioFuncionario\salarioFuncionario\obj\Debug\netcoreapp3.1\salarioFuncionario.pdb
+D:\Projetos\Udemy\CSharp\CSharpCompleto\ws-vs2019\ExerciciosLogica\EstruturaSequencial\04-SalarioFuncionario\salarioFuncionario\salarioFuncionario\obj\Debug\netcoreapp3.1\salarioFuncionario.genruntimeconfig.cache
